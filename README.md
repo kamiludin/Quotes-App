@@ -1,3 +1,3 @@
 ### Quotes Scraper
 
-Studi kasus membuat aplikasi python scraping
+Study Case for Web Scraping with Python Using BeautifulSoup and Requests
